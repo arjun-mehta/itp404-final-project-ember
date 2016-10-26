@@ -1,7 +1,6 @@
 # Trakfire-ember
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This app is a version of trakfire.com (Reddit for music) built using Ember.js.
 
 ## Prerequisites
 
